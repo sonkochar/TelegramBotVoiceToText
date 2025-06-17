@@ -6,7 +6,7 @@ This is a Telegram bot that converts voice messages to text in multiple language
 
 - Converts voice messages to text
 - Supports 3 languages: English 🇬🇧, Russian 🇷🇺, Armenian 🇦🇲
-- 🗂️ Stores user info in a local SQLite database
+- Stores user info in a local SQLite database
 
 # Screenshots
 
